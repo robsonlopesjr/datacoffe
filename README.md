@@ -1,5 +1,12 @@
 <h1>Data Coffee</h1>
 
+<h1 align="center">
+  <img alt="DataCoffee" title="#DataCoffee" src="https://github.com/robsonlopesjr/powerbi-datacoffe/blob/main/screens/home.png" />
+  <img alt="DataCoffee" title="#DataCoffee" src="https://github.com/robsonlopesjr/powerbi-datacoffe/blob/main/screens/sales.png" />
+  <img alt="DataCoffee" title="#DataCoffee" src="https://github.com/robsonlopesjr/powerbi-datacoffe/blob/main/screens/profit_analysis.png" />
+  <img alt="DataCoffee" title="#DataCoffee" src="https://github.com/robsonlopesjr/powerbi-datacoffe/blob/main/screens/products.png" />
+</h1>
+
 ---
 
 ## 💻 Descrição do projeto
